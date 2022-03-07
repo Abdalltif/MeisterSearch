@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meister Search</string>
+    <string name="info">You can search for task titles, notes, users using @, tags using #, checklist items, and much more.</string>
+    <string name="archived">Archived</string>
+    <string name="active">Active</string>
+    <string name="all">All</string>
+    <string name="hint">Search for a task using few keywords</string>
+    <string name="error">An error occurred1</string>
+    <string name="dialog_title">Task Name</string>
+</resources>
